@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mario&#x27;s Block",
+    "description": "",
+    "home_page_url": "https://github.com/many20/block",
+    "feed_url": "https://github.com/many20/block/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mario Adrian"
+    },
+    "items": [
+        {
+            "id": "https://github.com/many20/block/my-codes-compiling.html",
+            "url": "https://github.com/many20/block/my-codes-compiling.html",
+            "title": "My Code&#x27;s compiling",
+            "content_html": "<img class=\"post__image\" src=\"https://github.com/many20/block/media/posts/2/34ffb32a-61f1-4f78-afd6-b5f6ca0c429c.webp\" width=\"587\" height=\"510\">",
+            "image": "https://github.com/many20/block/media/posts/2/",
+            "author": {
+                "name": "Mario Adrian"
+            },
+            "tags": [
+                   "Offtopic"
+            ],
+            "date_published": "2019-01-04T21:34:39+01:00",
+            "date_modified": "2019-01-04T21:36:10+01:00"
+        },
+        {
+            "id": "https://github.com/many20/block/storage-limits-in-chrome.html",
+            "url": "https://github.com/many20/block/storage-limits-in-chrome.html",
+            "title": "Storage limits in Chrome",
+            "image": "https://github.com/many20/block/media/posts/1/",
+            "author": {
+                "name": "Mario Adrian"
+            },
+            "tags": [
+                   "JavaScript",
+                   "Chrome",
+                   "Api"
+            ],
+            "date_published": "2019-01-04T21:11:24+01:00",
+            "date_modified": "2019-01-04T21:29:29+01:00"
+        }
+    ]
+}

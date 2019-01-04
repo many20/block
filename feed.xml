@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mario&#x27;s Block</title>
+    <link href="https://github.com/many20/block/feed.xml" rel="self" />
+    <link href="https://github.com/many20/block" />
+    <updated>2019-01-04T22:09:38+01:00</updated>
+    <author>
+        <name>Mario Adrian</name>
+    </author>
+    <id>https://github.com/many20/block</id>
+
+    <entry>
+        <title>My Code&#x27;s compiling</title>
+        <author>
+            <name>Mario Adrian</name>
+        </author>
+        <link href="https://github.com/many20/block/my-codes-compiling.html"/>
+        <id>https://github.com/many20/block/my-codes-compiling.html</id>
+            <category term="Offtopic"/>
+
+        <updated>2019-01-04T21:36:10+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://github.com/many20/block/media/posts/2/" alt="" />
+                <img class="post__image" src="https://github.com/many20/block/media/posts/2/34ffb32a-61f1-4f78-afd6-b5f6ca0c429c.webp" width="587" height="510">
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Storage limits in Chrome</title>
+        <author>
+            <name>Mario Adrian</name>
+        </author>
+        <link href="https://github.com/many20/block/storage-limits-in-chrome.html"/>
+        <id>https://github.com/many20/block/storage-limits-in-chrome.html</id>
+            <category term="JavaScript"/>
+            <category term="Chrome"/>
+            <category term="Api"/>
+
+        <updated>2019-01-04T21:29:29+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
