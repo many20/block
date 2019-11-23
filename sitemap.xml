@@ -1,11 +1,19 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://many20.github.io/block/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://many20.github.io/block/</loc>
 </url>
 <url>
 <loc>https://many20.github.io/block/my-codes-compiling.html</loc>
+<lastmod>2019-01-04T21:36:10+01:00</lastmod>
+<image:image>
+<image:loc>https://many20.github.io/block/media\posts\2/34ffb32a-61f1-4f78-afd6-b5f6ca0c429c.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://many20.github.io/block/storage-limits-in-chrome.html</loc>
+<lastmod>2019-01-04T21:29:29+01:00</lastmod>
 </url>
 </urlset>

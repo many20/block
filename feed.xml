@@ -3,7 +3,7 @@
     <title>Mario&#x27;s Block</title>
     <link href="https://many20.github.io/block/feed.xml" rel="self" />
     <link href="https://many20.github.io/block" />
-    <updated>2019-01-04T22:32:26+01:00</updated>
+    <updated>2019-11-23T22:19:23+01:00</updated>
     <author>
         <name>Mario Adrian</name>
     </author>
@@ -16,13 +16,11 @@
         </author>
         <link href="https://many20.github.io/block/my-codes-compiling.html"/>
         <id>https://many20.github.io/block/my-codes-compiling.html</id>
-            <category term="Offtopic"/>
 
         <updated>2019-01-04T21:36:10+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://many20.github.io/block/media/posts/2/" alt="" />
                 <img class="post__image" src="https://many20.github.io/block/media/posts/2/34ffb32a-61f1-4f78-afd6-b5f6ca0c429c.webp" width="587" height="510">
             ]]>
         </content>
@@ -34,9 +32,6 @@
         </author>
         <link href="https://many20.github.io/block/storage-limits-in-chrome.html"/>
         <id>https://many20.github.io/block/storage-limits-in-chrome.html</id>
-            <category term="JavaScript"/>
-            <category term="Chrome"/>
-            <category term="Api"/>
 
         <updated>2019-01-04T21:29:29+01:00</updated>
             <summary></summary>

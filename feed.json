@@ -14,12 +14,10 @@
             "url": "https://many20.github.io/block/my-codes-compiling.html",
             "title": "My Code&#x27;s compiling",
             "content_html": "<img class=\"post__image\" src=\"https://many20.github.io/block/media/posts/2/34ffb32a-61f1-4f78-afd6-b5f6ca0c429c.webp\" width=\"587\" height=\"510\">",
-            "image": "https://many20.github.io/block/media/posts/2/",
             "author": {
                 "name": "Mario Adrian"
             },
             "tags": [
-                   "Offtopic"
             ],
             "date_published": "2019-01-04T21:34:39+01:00",
             "date_modified": "2019-01-04T21:36:10+01:00"
@@ -28,14 +26,10 @@
             "id": "https://many20.github.io/block/storage-limits-in-chrome.html",
             "url": "https://many20.github.io/block/storage-limits-in-chrome.html",
             "title": "Storage limits in Chrome",
-            "image": "https://many20.github.io/block/media/posts/1/",
             "author": {
                 "name": "Mario Adrian"
             },
             "tags": [
-                   "JavaScript",
-                   "Chrome",
-                   "Api"
             ],
             "date_published": "2019-01-04T21:11:24+01:00",
             "date_modified": "2019-01-04T21:29:29+01:00"
